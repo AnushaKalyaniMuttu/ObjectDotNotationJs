@@ -1,0 +1,5 @@
+const arr=[
+firstName: 'anusha'
+]
+
+console.log(arr['firstName'])
